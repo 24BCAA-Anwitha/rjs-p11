@@ -21,18 +21,17 @@ button {
   margin-left: 5px;
   border: none;
   border-radius:5px;
-  background-color: #318637;
-  color: ghostwhite;
+  background-color: #0230ff;
+  color: blueviolet;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: black;
-  color: ghostwhite;
+  background-color: #c6fa0c;
 }
 
 h1 {
-  color: #000000;
+  color: #ff0101;
 }
 div{text-align: center;
   margin-top: 15%;
